@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import MarvelCharacters from './components/MarvelCharacters'; // Importando el componente
+import MarvelCharacters from './components/MarvelCharacters'; 
 
 function App() {
   return (
     <div className="App">
-      <MarvelCharacters /> {/* Usando el componente aquí */}
+      <MarvelCharacters /> 
     </div>
   );
 }
